@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/stra/Proteus/install/yolov5/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/ublox_msgs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/sensor_handle/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_perception/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_hardware/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_controller/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_srvs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/nala_autonomy/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_msgs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/nala_localization/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_auxiliary/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/lslidar_msgs/local/lib/python3.10/dist-packages",
+        "/opt/intel/openvino_2023.0.2/python/python3.10",
+        "/opt/intel/openvino_2023.0.2/python/python3",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/stra/Proteus/install/yolov5/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/ublox_msgs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/sensor_handle/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_perception/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_hardware/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_controller/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_srvs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/nala_autonomy/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_msgs/local/lib/python3.10/dist-packages",
+        "/home/stra/Proteus/install/nala_localization/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/nala_auxiliary/lib/python3.10/site-packages",
+        "/home/stra/Proteus/install/lslidar_msgs/local/lib/python3.10/dist-packages",
+        "/opt/intel/openvino_2023.0.2/python/python3.10",
+        "/opt/intel/openvino_2023.0.2/python/python3",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/stra/Proteus/install/web_video_server/include/**",
+        "/home/stra/Proteus/install/ublox_gps/include/**",
+        "/home/stra/Proteus/install/ublox_msgs/include/**",
+        "/home/stra/Proteus/install/ublox_serialization/include/**",
+        "/home/stra/Proteus/install/nala_srvs/include/**",
+        "/home/stra/Proteus/install/nala_msgs/include/**",
+        "/home/stra/Proteus/install/lslidar_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/stra/Downloads/Lslidar_ROS2_driver-N301-P_V5.0/lslidar_driver/include/**",
+        "/home/stra/Downloads/code_end_section_9_launch_files/src/my_cpp_pkg/include/**",
+        "/home/stra/Proteus/src/nala_sensor/lsn301_lidar/lslidar_driver/include/**",
+        "/home/stra/Proteus/src/nala_sensor/ros2-ublox-zedf9p/ublox_gps/include/**",
+        "/home/stra/Proteus/src/nala_sensor/ros2-ublox-zedf9p/ublox_msgs/include/**",
+        "/home/stra/Proteus/src/nala_sensor/ros2-ublox-zedf9p/ublox_serialization/include/**",
+        "/home/stra/Proteus/src/utils/async_web_server_cpp/include/**",
+        "/home/stra/Proteus/src/utils/web_video_server/include/**",
+        "/home/stra/coba/src/lsn301_lidar/lslidar_driver/include/**",
+        "/home/stra/gz-cmake/include/**",
+        "/home/stra/ros2_ws/src/mavros/libmavconn/include/**",
+        "/home/stra/ros2_ws/src/mavros/mavros/include/**",
+        "/home/stra/ros2_ws/src/mavros/mavros_extras/include/**",
+        "/home/stra/ros2_ws/src/mavros/mavros_msgs/include/**",
+        "/home/stra/test_imu/src/LS-LIDAR-N301-ROS2/lidar_n301/lidar_n301_decoder/include/**",
+        "/home/stra/test_imu/src/LS-LIDAR-N301-ROS2/lidar_n301/lidar_n301_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
